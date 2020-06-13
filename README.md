@@ -1,1 +1,1 @@
-# macplus
+# macplus static
